@@ -1,4 +1,4 @@
-In this project we explore data patterns on movies that families watch.
+SQL data exploration for patterns on movies that families watch.
 
 INSIGHTS WE EXPLORE IN THE QUERIES:
 - How rental of family-friendly movies compares to the duration of all rented movies 
